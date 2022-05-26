@@ -1,0 +1,6 @@
+lib/**
+Scripts/**
+.idea/**
+ffmpeg/**
+__pycache__/**
+qr.mp4
